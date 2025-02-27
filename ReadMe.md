@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI and Machine Learning Engineer passionate about building intelligent systems.<br>Proficient in Python, driving development across diverse projects.<br>Experienced in designing and deploying machine learning models.<br>Full-stack web developer, capable of creating robust and scalable applications.<br>Dedicated to continuous learning and exploring the latest advancements in AI and web technologies.<br>Committed to writing clean, efficient, and well-documented code.<br>Focused on solving complex problems through innovative technical solutions.<br>EDUCATION:<br>Bachelor's In Computer Science<br>Comsats University Islamabad
+✨AI and Machine Learning Engineer passionate about building intelligent systems.<br>⭐Proficient in Python, driving development across diverse projects.<br>✨Experienced in designing and deploying machine learning models.<br>⭐Full-stack web developer, capable of creating robust and scalable applications.<br>✨Focused on solving complex problems through innovative technical solutions.<br>⭐EDUCATION:<br>✨Bachelor's In Computer Science<br>Comsats University Islamabad
 
 
 ## 🌐 Socials:
