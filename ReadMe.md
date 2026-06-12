@@ -14,7 +14,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,js,flask,django,ai,html,css,ts,nodejs,react,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,flask,django,ai,ts,nodejs,react,express&theme=dark" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,azure,dotnet,mysql,postgres,mongodb,redis,graphql,git,github,linux,vscode&theme=dark" />
