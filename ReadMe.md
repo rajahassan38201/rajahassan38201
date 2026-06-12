@@ -14,10 +14,10 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,ml,ai,js,ts,go,rust,html,css,react,nextjs,vue,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,flask,django,ai,html,css,ts,nodejs,react,express&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,restapi,azure,mongodb,postgres,redis,graphql,git,github,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,azure,dotnet,mysql,postgres,mongodb,redis,graphql,git,github,linux,vscode&theme=dark" />
 </p>
 
 <br/>
